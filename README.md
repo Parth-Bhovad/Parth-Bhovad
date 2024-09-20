@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Parth-Bhovad
 - 👀 I’m interested in Programming, Physics, Mathematics and technology
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Web Development (MERN Stack)
 - 📫 How to reach me parthbhovad710@gmail.com
 - ⚡ Fun fact: "Matter tells space-time how to curve, and space-time tells matter how to move"
 
