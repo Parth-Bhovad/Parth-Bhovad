@@ -42,7 +42,7 @@
 <br clear="both">
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Parth-Bhovad/Parth-Bhovad/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+    <img src="https://raw.githubusercontent.com/Parth-Bhovad/Readme.md/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
 </div>
 
 ###
