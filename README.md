@@ -1,5 +1,8 @@
-<h2 align="left">Hi 👋! My name is Parth Bhovad and I'm a currently learning web development (MERN stack).</h2>
-
+<div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=20&duration=6000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Parth+Bhovad.;And+I'm+currently+learning+web+development;" alt="Typing SVG"/>
+    </h1>
+</div>
 ###
 
 <div align="center">
@@ -38,6 +41,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Parth-Bhovad/Parth-Bhovad/output/snake.svg" alt="Snake animation" />
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Parth-Bhovad/Parth-Bhovad/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+</div>
 
 ###
