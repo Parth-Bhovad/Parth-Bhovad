@@ -1,0 +1,21 @@
+yaml
+name: Update Contribution Snake
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Ye har din midnight par chalega
+  push:
+    branches:
+      - main # Ya jis branch par aap kaam kar rahe hain
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate Contribution Snake
+        uses: Parth-Bhovad/github-contribution-grid-snake@main
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
